@@ -14,4 +14,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(applicationContext, "Hey! how are you?", Toast.LENGTH_SHORT).show()
         }
     }
+    fun second(){
+
+    }
 }
